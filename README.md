@@ -1,22 +1,3 @@
-<style>
-    *{
-        background-color:#2c3e50;
-        margin: 0 auto;
-        color: #fff;
-    }
-    img{
-        max-width: 80%;
-    }
-    figure  figcaption{
-        font-size: 16px;
-        margin-top: 15px;
-        color: darkgray;
-    }
-    h2{
-        margin-top: 10px;
-    }
-</style>
-
 <h1 align="left">
     <img src="Imagens/ImageRes.png" width="100">
 </h1>
