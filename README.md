@@ -106,4 +106,4 @@
 ---
 
 <h2>👷  Autor 👷 </h2>
-<p>Leandro Nascimento<p>
+<p>Leandro Jesys Do Nascimento<p>
