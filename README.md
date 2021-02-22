@@ -1,26 +1,3 @@
-<style>
-    *{
-        background-color:#2c3e50;
-        margin: 0 auto;
-        color: #fff;
-    }
-    img{
-        max-width: 80%;
-    }
-    figure  figcaption{
-        font-size: 16px;
-        margin-top: 15px;
-        color: darkgray;
-    }
-    h2{
-        margin-top: 10px;
-    }
-</style>
-
-<h1 align="left">
-    <img src="Imagens/ImageRes.png" width="100">
-</h1>
-
 <h2>Sobre</h2>
 
 <p align="justify">TMS é um sistema de gerenciamento básico de Bares ou Restaurantes, o sistema controla tudo por mesas, aloca as compras em determinadas mesas, que é organizada numericamente, depois para finalizar e desocupar a mesa, só quando a conta refente a mesas é paga e um cupom fiscal é gerado em PDF pelo sistema para aquela mesa ficar disponível para ser usada. O sistema existe controle de usuários e alguas restrições de funcionalidade como dono, gerente e funcionário.</p>
